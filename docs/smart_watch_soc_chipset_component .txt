@@ -1,0 +1,24 @@
+1.common smart watch chipset component of hardware .
+
+class watch_soc_chipset
+{
+	CPU,
+	Memory,
+	Flash,HDD,
+	GPS,
+	WLAN,
+	Compass,
+	BlueTooth,
+	HealthDevice,
+	GravitySensor,
+	InfraedRay,
+	Radar,
+	Headset,
+	Camera,
+	Antenna,
+	Codec,
+	Microphone,
+	OutputDevice,
+	Screen.
+	etc ... 
+};
